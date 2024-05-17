@@ -25,7 +25,7 @@ function contact() {
         <FontAwesomeIcon icon={faFacebook} size="2x" />
       </a> */}
        
-      <a href="https://instagram.com/_offical_yo_mame_?igshid=a2k3MWhlejNlNzh6" target='_blank' rel="noopener noreferrer"
+      <a href="https://www.instagram.com/ds_spx?igsh=aHY5dGEzMWQxdHlw" target='_blank' rel="noopener noreferrer"
         className="instagram social">
         <FontAwesomeIcon icon={faInstagram} size="2x" />
       </a>
