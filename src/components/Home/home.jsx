@@ -9,12 +9,12 @@ const Home=()=>{
       <div className="container header_container">
        <div className='headertxt'>
          <h5 > Welcome I'm</h5>
-          <h1>  <strong>Mohammed</strong> Ahmed</h1>
+          <h1>  <strong>Dagmawi</strong> Sisay</h1>
           <h4> A Graphics Designer: Brand and Logo Designer </h4>
           <p className="text-light">
-          "Discover my world of creative design—where passion meets innovation.
-           Explore my diverse portfolio and experience art in every detail. 
-            Together, let's bring your ideas to life with a touch of visual magic."
+          "Welcome to my creative world, where passion meets innovation. 
+          Explore my diverse portfolio and experience the artistry in every detail.
+           Let's collaborate and bring your ideas to life with a touch of visual magic."
           </p>
           <CTA />
        </div>

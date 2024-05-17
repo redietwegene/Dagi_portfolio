@@ -13,8 +13,10 @@ function about() {
         <img src={DagiPic} alt="mame's pic"/>
         <h5> Graphics Designer </h5>
         <p> 
-I'm Mohammed Abdela, also known as Yomame, a seasoned graphics designer, video editor, and logo maker with a year of professional experience.
- A graduate in Graphics Design and Digital Marketing from a reputable academy, my goal is to seamlessly blend client requirements with my expertise to deliver exceptional results.</p>
+
+        I'm Dagim Sisay a seasoned graphics designer with a year of professional experience.
+         My expertise spans creating visually compelling designs, logos, and branding materials. I am dedicated to understanding client needs and translating them into exceptional visual solutions
+        . Let me bring your vision to life with creativity and precision.</p>
     </div>
       <div className='about_cards'>
           <article className='about_card'>
