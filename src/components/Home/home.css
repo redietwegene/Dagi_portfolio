@@ -44,11 +44,13 @@ header {
     }
 
     .mamePic {
+        display: flex;
         background: linear-gradient(rgb(255, 243, 176), transparent);
         width: 18rem;
         height: 18rem;
         border-radius: 20rem;
         margin-bottom: 10px;
+        
     }
 
     .headertxt {
@@ -63,6 +65,7 @@ header {
         display: flex;
         flex-direction: column-reverse;
         justify-content: space-between;
+        align-items: center;
     }
 
     .mamePic {
@@ -71,6 +74,7 @@ header {
         height: 15rem;
         border-radius: 20rem;
         margin-bottom: 10px;
+        margin: 0 auto 10px auto;
     }
 
     .headertxt {
