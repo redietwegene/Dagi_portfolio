@@ -19,13 +19,21 @@ import img15 from "../../assets/15.jpg";
 import img16 from "../../assets/16.jpg";
 import img17 from "../../assets/17.jpg";
 import img18 from "../../assets/18.jpg";
-// import img19 from "../../assets/sofa billbord.jpg";
-// import img20 from "../../assets/frni.jpg";
-// import img21 from "../../assets/for dj.jpg";
-// import img22 from "../../assets/yo bs colab.jpg";
-// import img23 from "../../assets/rophnan yo.jpg";
-// import img24 from "../../assets/happy.jpg";
-// import img25 from "../../assets/biruk.jpg";
+import img19 from "../../assets/19.jpg";
+import img20 from "../../assets/20.jpg";
+import img21 from "../../assets/21.jpg";
+import img22 from "../../assets/22.jpg";
+import img23 from "../../assets/23.jpg";
+import img24 from "../../assets/24.jpg";
+import img25 from "../../assets/25.jpg";
+import img26 from "../../assets/26.jpg";
+import img27 from "../../assets/27.jpg";
+import img28 from "../../assets/28.jpg";
+import img29 from "../../assets/29.jpg";
+import img30 from "../../assets/30.jpg";
+import img31 from "../../assets/31.jpg";
+import img32 from "../../assets/32.jpg";
+
 
 
 
@@ -113,33 +121,75 @@ class Cards extends Component {
            
           }, {
             id: 19,
-            image: img8,
+            image: img19,
           
           }, 
-          //   id: 20,
-          //   image: img14,
-            
-          // }, {
-          //   id: 21,
-          //   image: img6,
-    
-          // }, {
-          //   id: 22,
-          //   image: img5,
-       
-          // }, {
-          //   id: 23,
-          //   image: img11,
-           
-          // }, {
-          //   id: 24,
-          //   image: img12,
-           
-          // }, {
-          //   id: 25,
-          //   image: img15,
-         
-          // },
+        {
+            id: 20,
+            image: img20,
+          
+          }, 
+        {
+            id: 21,
+            image: img21,
+          
+          }, 
+        {
+            id: 22,
+            image: img22,
+          
+          }, 
+        {
+            id: 23,
+            image: img23,
+          
+          }, 
+        {
+            id: 24,
+            image: img24,
+          
+          }, 
+        {
+            id: 25,
+            image: img25,
+          
+          }, 
+        {
+            id: 26,
+            image: img26,
+          
+          }, 
+        {
+            id: 27,
+            image: img27,
+          
+          }, 
+        {
+            id: 28,
+            image: img28,
+          
+          }, 
+        {
+            id: 29,
+            image: img29,
+          
+          }, 
+        {
+            id: 30,
+            image: img30,
+          
+          }, 
+        {
+            id: 31,
+            image: img31,
+          
+          }, 
+        {
+            id: 32,
+            image: img32,
+          
+          }, 
+        
        
       ],
     };
